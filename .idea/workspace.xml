@@ -38,6 +38,17 @@
     <commandsHistory>
       <command text="ls" />
       <command text="git init" />
+      <command text="git add -A" />
+      <command text="git commit 'hello_world'" />
+      <command text="git commit -m 'hello_world'" />
+      <command text="git remote add testL git://github.com/LevinKonstantin/testL.git" />
+      <command text="git push testL/master" />
+      <command text="ls" />
+      <command text="git push testL master" />
+      <command text="git push https://github.com/LevinKonstantin/testL.git master" />
+      <command text="git push testL master" />
+      <command text="git push https://github.com/LevinKonstantin/testL.git master" />
+      <command text="git push testL/master" />
     </commandsHistory>
   </component>
   <component name="HighlightingSettingsPerFile">
